@@ -21,5 +21,7 @@ public class exer {
             有一个冲突1
                          你是
 
+                  冲突行
+
     }
 }
