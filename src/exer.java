@@ -14,6 +14,7 @@ public class exer {
          i think
 
         System.out.println("先push 再提交，这是什么鬼");
+         231
 
     }
 }
