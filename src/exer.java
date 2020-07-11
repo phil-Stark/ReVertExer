@@ -14,5 +14,7 @@ public class exer {
         System.out.println("nothing");
 
         System.out.println("试一次");
+        System.out.println("试一次");
+
     }
 }
