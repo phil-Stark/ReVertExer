@@ -11,7 +11,7 @@ public class exer {
 
         System.out.println("测试");
 
-         i think
+         3i think
 
         System.out.println("先push 再提交，这是什么鬼");
 
